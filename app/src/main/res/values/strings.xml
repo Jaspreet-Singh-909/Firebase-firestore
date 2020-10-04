@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firestore</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="saveButton">Save Button</string>
+    <string name="save_data">Show Data</string>
+    <string name="update_title">Update All</string>
+    <string name="delete_all">Delete All</string>
+
+</resources>
